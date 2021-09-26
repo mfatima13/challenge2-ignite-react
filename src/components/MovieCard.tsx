@@ -17,6 +17,7 @@ export function MovieCard(props: MovieCardProps) {
         alt={props.title}
       />
 
+
       <div>
         <div className="movie-info">
           <span>{props.title}</span>
